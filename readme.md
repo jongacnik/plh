@@ -38,7 +38,7 @@ var base64 = plh(3, 4)
 
 ### Why?
 
-Sometimes base64 encoded placeholder images are handy on the webz. I made this so I could quickly nab aspect ratio specific placeholders.
+Sometimes base64 encoded placeholder images are handy. I made this so I could quickly nab aspect ratio specific placeholders.
 
 ### How?
 
