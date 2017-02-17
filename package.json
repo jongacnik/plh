@@ -1,6 +1,6 @@
 {
   "name": "plh",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Returns a base64 encoded transparent placeholder gif as Data URI",
   "main": "index.js",
   "bin": {
