@@ -1,0 +1,30 @@
+{
+  "name": "plh",
+  "version": "0.0.0",
+  "description": "Returns a base64 encoded transparent placeholder gif as Data URI",
+  "main": "index.js",
+  "bin": {
+    "plh": "bin/index.js"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "placeholder",
+    "base64",
+    "gif",
+    "data uri",
+    "transparent"
+  ],
+  "author": "Jon Gacnik <jon@folderstudio.com> (http://jongacnik.com)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jongacnik/plh.git"
+  },
+  "homepage": "https://github.com/jongacnik/plh#readme",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
